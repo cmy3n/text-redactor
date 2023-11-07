@@ -1,0 +1,17 @@
+C:\C#\txtredactor\txtredactor\bin\Debug\net6.0\txtredactor.exe
+C:\C#\txtredactor\txtredactor\bin\Debug\net6.0\txtredactor.deps.json
+C:\C#\txtredactor\txtredactor\bin\Debug\net6.0\txtredactor.runtimeconfig.json
+C:\C#\txtredactor\txtredactor\bin\Debug\net6.0\txtredactor.dll
+C:\C#\txtredactor\txtredactor\bin\Debug\net6.0\txtredactor.pdb
+C:\C#\txtredactor\txtredactor\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\C#\txtredactor\txtredactor\obj\Debug\net6.0\txtredactor.csproj.AssemblyReference.cache
+C:\C#\txtredactor\txtredactor\obj\Debug\net6.0\txtredactor.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\txtredactor\txtredactor\obj\Debug\net6.0\txtredactor.AssemblyInfoInputs.cache
+C:\C#\txtredactor\txtredactor\obj\Debug\net6.0\txtredactor.AssemblyInfo.cs
+C:\C#\txtredactor\txtredactor\obj\Debug\net6.0\txtredactor.csproj.CoreCompileInputs.cache
+C:\C#\txtredactor\txtredactor\obj\Debug\net6.0\txtredactor.csproj.CopyComplete
+C:\C#\txtredactor\txtredactor\obj\Debug\net6.0\txtredactor.dll
+C:\C#\txtredactor\txtredactor\obj\Debug\net6.0\refint\txtredactor.dll
+C:\C#\txtredactor\txtredactor\obj\Debug\net6.0\txtredactor.pdb
+C:\C#\txtredactor\txtredactor\obj\Debug\net6.0\txtredactor.genruntimeconfig.cache
+C:\C#\txtredactor\txtredactor\obj\Debug\net6.0\ref\txtredactor.dll
